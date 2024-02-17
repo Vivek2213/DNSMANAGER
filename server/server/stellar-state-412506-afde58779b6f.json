@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "stellar-state-412506",
+  "private_key_id": "afde58779b6f1e94afb1179e22138a893271a4cd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5aYCFhSdwqtbA\nAmVKZBwkHPkZSXXm8KrszxftM49lni2qHKCYs4N1f/BjFBAruuQKEVaDfHJ2MAjn\nWLHC8R3HScSQi09L40eGlyVFNS6QAFUWziP0PwXkQkaC7oPkO/RLfmhG4gunodSO\nxX9Jsjte+pNhnnlycv4SZ7+Ve/rZI2mQtXYXST4d6N2OB1NgL9vPHhkn1510JUkm\nteciyNwxBm2vvyHXLe00MGlzZ9ovhsEHrr8cujCxBMZAaHfeOagUO0lExwDtELE2\nmt7fJFQ05tX4BxwM/q5Hd37OL/790CS1/AHI34aHaHcc6eJoS7TEYN+UAQYw1SwQ\nyNYm4IyLAgMBAAECggEACLqwW9jshe/tI2YZebqj3olkqu2b+O78xSBs6nSCfFDJ\nqpglcXsGJeqLmUaRClYGtXiif5dE1k6lpKq218w9UCwnbny4k4SUUgBct1jtI8d4\nOhYjeDTdZKVAJ5ruJ7kw47sEUs4CqXZDiSNAPmp/RBX9CVwKMLq8PoaW7QVExqNA\n+5z03cWKE/Tljv+k9/+rQ+BP4ft0cADdceD5Euoy4celZZ23Z/tmg8f7bl92RswX\nV57rYSoUGB9ANPEFVdoH5YRlB9zPs/i0fW+i98XnvvnGHX/tuuTTj0UZvsDWyXEs\n31BjIJqN0+xuyryO7+AM1CeUNgbCeXm/Th2ICsR6AQKBgQD4wObZCVqKy67o1ROC\nq4tbR7ClMotpBiGG0hk7qryJsyREIa5VxQjgiMCFcDhjsH/9XoPRc1OIZLpEYekX\neMyiwy/Y402I6CGhBYHi/SK+7hlh7BA5gVS3gaS7P6rIomdlpGYWIsG88J8PZeSD\nYlROaKQZ8GybXXGuTmU3bGm2AQKBgQC+0DoZ50beAknCnjg5xg35k54XtstRzdwl\nVV2TdXQXa3ZJztrS+3gEuyjvTuc56FMgHKNwvs93iYjp+prmMZ98lIP9Ewpo5T9W\ntBg+w1wZtFxxPpz4IdUnLVBAuiepaU8/tmxGatyUaG1VXWK88wz0bODKplyUSmON\nCXclZz66iwKBgQCk62+hkTwALU5He4014vm/iOYqgDpBZRkxQ3YLQwVA3g47RYFJ\nyBo8ky3gyif4n/obR2BpquZE1VNRJwDc2PADMRk12G19STmSgg49KcqxfzZA37ta\nBM7f4woOQwW9gz69+qLcJisAUx+Bm/JG0RhH68Rwlh/LWcaW487jUfM8AQKBgDjV\nTHjqqfD2PYH6HkUW+JKdpTjq+SQkbK2x/20sTqerGlBhjEvLGrROCqM8nSJiUGAA\nJ64tJx4zmNQYEIr/vMEeezGlujQEFBl/Crmm9oexcNdKDvbZHOPOW1jsGWQcOb6A\nVz+iFJEfiXEjn4Un33Pt+gZiBrEkdwJLD3HUjpqBAoGAImwsXCUqXV8irJJWbGVr\nf44dnHqaUJJyhAdCc2ypD+9W3TcNmIljID5hDXSU7bNY+k7E5F15N+mkA9LsLf3n\nEavjTuAM3YK/Jq+LNdpGmx1TBpZ2ft+T97x8dHW0X79qIPL5B+KCSeZKja0g3rWF\nwvqWH9NMxTKbqylhbDgSqY8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dns-record-creator@stellar-state-412506.iam.gserviceaccount.com",
+  "client_id": "101329449707215418803",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dns-record-creator%40stellar-state-412506.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
